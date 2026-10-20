@@ -1,0 +1,7 @@
+{
+  "name": "pizarra",
+  "version": "0.1.0",
+  "description": "Pizarra de notas fijas al lado del chat que Claude lee en cada petición",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

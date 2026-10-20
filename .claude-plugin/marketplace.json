@@ -1,0 +1,17 @@
+{
+  "name": "mods-claude",
+  "owner": { "name": "Chantal" },
+  "description": "Diez mods para Claude Code: paneles de coste, modelo, contexto y archivos, puntos de restauración, cola de prompts y más.",
+  "plugins": [
+    { "name": "coste-tarea", "source": "./coste-tarea", "description": "Panel de coste por tarea: cuánto llevas gastado y pausa al llegar a tu presupuesto" },
+    { "name": "modelo-tarea", "source": "./modelo-tarea", "description": "Elige el modelo según la tarea y cámbialo solo cuando Claude empieza un trabajo distinto" },
+    { "name": "coste-skill", "source": "./coste-skill", "description": "Qué skills tienes y cuánto podría costar cada una" },
+    { "name": "puntos-restauracion", "source": "./puntos-restauracion", "description": "Copia de tus archivos antes de cada cambio de Claude, con hora y prompt" },
+    { "name": "guardian", "source": "./guardian", "description": "Bloquea secretos en archivos y comandos peligrosos, con permiso con un clic" },
+    { "name": "medidor-contexto", "source": "./medidor-contexto", "description": "Contexto y límites de uso a la vista, con aviso antes de quedarte sin espacio" },
+    { "name": "cronometro-turnos", "source": "./cronometro-turnos", "description": "Cuánto tarda cada tarea, qué herramientas usa y aviso si se alarga" },
+    { "name": "pizarra", "source": "./pizarra", "description": "Notas fijas por proyecto que Claude lee en cada petición" },
+    { "name": "radar-archivos", "source": "./radar-archivos", "description": "Qué archivos ha leído y editado Claude, ordenados por actividad" },
+    { "name": "cola-prompts", "source": "./cola-prompts", "description": "Encadena varias tareas y Claude las hace una tras otra" }
+  ]
+}

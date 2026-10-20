@@ -1,0 +1,7 @@
+{
+  "name": "cola-prompts",
+  "version": "0.1.0",
+  "description": "Cola de prompts: encadena varias tareas y Claude las va haciendo una tras otra",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

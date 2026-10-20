@@ -1,0 +1,7 @@
+{
+  "name": "guardian",
+  "version": "0.1.0",
+  "description": "Bloquea que Claude escriba secretos en tus archivos o lance comandos peligrosos, y te deja permitirlo con un clic",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

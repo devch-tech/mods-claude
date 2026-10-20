@@ -1,0 +1,7 @@
+{
+  "name": "coste-tarea",
+  "version": "0.1.0",
+  "description": "Panel de coste por tarea: cuánto llevas gastado y pausa las herramientas al llegar a tu presupuesto",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

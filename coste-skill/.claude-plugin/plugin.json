@@ -1,0 +1,7 @@
+{
+  "name": "coste-skill",
+  "version": "0.1.0",
+  "description": "Panel con tus skills y una estimación de cuánto cuesta tenerlas listadas y cuánto cuesta invocar cada una",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

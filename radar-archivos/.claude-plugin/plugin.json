@@ -1,0 +1,7 @@
+{
+  "name": "radar-archivos",
+  "version": "0.1.0",
+  "description": "Qué archivos ha leído y cambiado Claude en esta sesión, ordenados por actividad",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

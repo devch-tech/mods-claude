@@ -1,0 +1,7 @@
+{
+  "name": "modelo-tarea",
+  "version": "0.1.0",
+  "description": "Panel para elegir el modelo según la tarea y cambiarlo solo cuando Claude empieza un trabajo distinto",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

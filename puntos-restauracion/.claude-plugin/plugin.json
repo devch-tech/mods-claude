@@ -1,0 +1,7 @@
+{
+  "name": "puntos-restauracion",
+  "version": "0.1.0",
+  "description": "Guarda una copia de tus archivos antes de que Claude los toque y muestra puntos de restauración con la hora y el prompt",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

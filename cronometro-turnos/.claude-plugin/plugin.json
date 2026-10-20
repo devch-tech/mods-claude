@@ -1,0 +1,7 @@
+{
+  "name": "cronometro-turnos",
+  "version": "0.1.0",
+  "description": "Cronómetro de cada tarea: cuánto tarda Claude, cuántas herramientas usa y un aviso si se alarga",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}

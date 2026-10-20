@@ -1,0 +1,7 @@
+{
+  "name": "medidor-contexto",
+  "version": "0.1.0",
+  "description": "Mide cuánto contexto y cuánto límite de uso llevas y te avisa antes de quedarte sin espacio",
+  "author": { "name": "Chantal" },
+  "types": "./types/index.d.ts"
+}
